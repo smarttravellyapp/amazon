@@ -4,20 +4,39 @@
     "category": "activation-keys",
     "title": "Windows 10 Pro Activation Key",
     "description": "Genuine digital activation key for Windows 10 Pro. Instant delivery via email, supports 64-bit and 32-bit installs.",
-    "url": "https://plati.market/itm/3525355?ai=1393244"
+    "url": "https://plati.market/itm/3525355?ai=1393244",
+    "image": "https://cdn.smarttravelly.com/products/windows10-pro-key.jpg"
   },
   {
     "id": "p002",
     "category": "gift-cards",
     "title": "Amazon Gift Card $50",
     "description": "Digital Amazon gift card with $50 balance, redeemable in selected regions.",
-    "url": "https://example.com/product/amazon-giftcard-50"
+    "url": "https://example.com/product/amazon-giftcard-50",
+    "image": "https://cdn.smarttravelly.com/products/amazon-giftcard-50.jpg"
   },
   {
     "id": "p003",
     "category": "pc-software",
     "title": "Antivirus Pro License - 1 Year",
     "description": "1-year license for Antivirus Pro — real-time protection and automatic updates.",
-    "url": "https://example.com/product/antivirus-pro-1y"
+    "url": "https://example.com/product/antivirus-pro-1y",
+    "image": "https://cdn.smarttravelly.com/products/antivirus-pro.jpg"
+  },
+  {
+    "id": "p004",
+    "category": "game-accounts",
+    "title": "Steam Game Account Bundle",
+    "description": "Preloaded Steam account with 10+ popular titles and verified access. Instant delivery.",
+    "url": "https://example.com/product/steam-account-bundle",
+    "image": "https://cdn.smarttravelly.com/products/steam-account.jpg"
+  },
+  {
+    "id": "p005",
+    "category": "itunes-app-store",
+    "title": "Apple App Store Gift Card $25",
+    "description": "Instant digital Apple App Store & iTunes gift card for apps, games, and subscriptions.",
+    "url": "https://example.com/product/apple-giftcard-25",
+    "image": "https://cdn.smarttravelly.com/products/itunes-giftcard.jpg"
   }
 ]
